@@ -1,10 +1,10 @@
-Foodie. - Supper delicious Burger in town!
+Quetta Fast Food - Supper delicious Burger in town!
 
 
 
 #---------- HEADER ----------#
 
-Foodie.
+Quetta Fast Food
 
 Home
 About Us
@@ -70,7 +70,7 @@ alt = Burger with Drinks
 
 alt = get up to 50% off now
 
-Foodie, Burgers, and Best Pizzas in Town!
+Quetta Fast Food, Burgers, and Best Pizzas in Town!
 
 The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
 
@@ -173,7 +173,7 @@ $69.00
 
 #---------- CTA ----------#
 
-The Foodie Have Excellent Of Quality Burgers!
+Quetta Fast Food Have Excellent Of Quality Burgers!
 
 The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
 
