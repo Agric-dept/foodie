@@ -212,6 +212,11 @@ body.active { overflow: hidden; }
   height: var(--height, 45px);
   padding-inline: var(--padding-inline, 35px);
   transition: var(--transition-1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 4px;
 }
 
 .btn-hover {
