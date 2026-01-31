@@ -15,7 +15,7 @@ Contact Us
 aria-label = Search
 <ion-icon name="search-outline"></ion-icon>
 
-Reservation
+Order Now
 
 aria-label = Toggle Menu
 
@@ -330,7 +330,7 @@ Person
 4 Person
 5 Person
 
-aria-label = Reservation date
+aria-label = Order date
 
 placeholder = Message
 

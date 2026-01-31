@@ -23,7 +23,7 @@
 - ✅ **Interactive Navigation** - Smooth menu toggle and navigation
 - ✅ **Search Functionality** - Search box for finding menu items
 - ✅ **Product Showcase** - Display of popular food items with categories
-- ✅ **Reservation System** - Book a table functionality
+- ✅ **Order Now System** - Call us to place your order
 - ✅ **Blog Section** - Food and restaurant blog posts
 - ✅ **Fast Performance** - Lightweight and optimized code
 - ✅ **Cross-browser Compatible** - Works on all modern browsers
@@ -130,7 +130,7 @@ Before you begin, ensure you have the following installed:
 - Sticky header that activates on scroll
 - Mobile-responsive navigation menu
 - Search functionality
-- Reservation button
+- Order Now button with phone link
 
 ### 2. Hero Section
 - Eye-catching banner with CTA
